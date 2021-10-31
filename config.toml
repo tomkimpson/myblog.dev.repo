@@ -1,0 +1,18 @@
+baseURL = "https://tomkimpson.github.io/"
+languageCode = "en-us"
+title = "Tom Kimpson"
+
+theme = "hyde"
+
+
+[Menus]
+  main = [
+      {Name = "Research", URL = "/publications/", weight=1}, 
+      {Name = "Code", URL = "/code/",weight=2}
+  ]
+
+[params]
+  themeColor = "theme-base-0y"
+  description = "Postdoctoral Researcher in Computational Physics @ Oxford"
+  GitUsername = "tomkimpson"
+  authorImage = "/images/avatar_old.jpg"

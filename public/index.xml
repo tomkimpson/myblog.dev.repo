@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Tom Kimpson</title>
+    <link>https://tomkimpson.github.io/</link>
+    <description>Recent content in About on Tom Kimpson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Apr 2021 17:17:34 +0100</lastBuildDate>
+    
+	<atom:link href="https://tomkimpson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards Machine Learning-Based Meta-Studies: Applications to Cosmological Parameters</title>
+      <link>https://tomkimpson.github.io/publications/p7/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>herro</title>
+      <link>https://tomkimpson.github.io/random_blog_post/</link>
+      <pubDate>Mon, 05 Apr 2021 17:17:34 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/random_blog_post/</guid>
+      <description>I am currently a postdoc in computational physics at the University of Oxford where I explore reduced precision float arithmetic, stochastic methods and machine learning techniques applied to climate simulations.
+I got my PhD in Theoretical Astrophysics in 2021 from University College London, within the in the Mullard Space Science Laboratory. During this period I also spent some time at the Perimeter Institute for Theoretical Physics. My PhD research was focused on mathematical and computational modelling of pulsars in regions of strong gravity; how we can detect these systems and use them for precision tests of fundamental physics?</description>
+    </item>
+    
+    <item>
+      <title>herro2</title>
+      <link>https://tomkimpson.github.io/blog_posts/random_blog_post_2/</link>
+      <pubDate>Mon, 05 Apr 2021 17:17:34 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/blog_posts/random_blog_post_2/</guid>
+      <description>I am currently a postdoc in computational physics at the University of Oxford where I explore reduced precision float arithmetic, stochastic methods and machine learning techniques applied to climate simulations.
+I got my PhD in Theoretical Astrophysics in 2021 from University College London, within the in the Mullard Space Science Laboratory. During this period I also spent some time at the Perimeter Institute for Theoretical Physics. My PhD research was focused on mathematical and computational modelling of pulsars in regions of strong gravity; how we can detect these systems and use them for precision tests of fundamental physics?</description>
+    </item>
+    
+    <item>
+      <title>Radio timing in a millisecond pulsar-extreme/intermediate mass ratio binary system</title>
+      <link>https://tomkimpson.github.io/publications/p6/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbital spin dynamics of a millisecond pulsar around a massive black hole with an general mass quadrupole</title>
+      <link>https://tomkimpson.github.io/publications/p5/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Burst Radiation from Pulsars in the Galactic centre and stellar clusters</title>
+      <link>https://tomkimpson.github.io/publications/p4/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospects for Fundamental Physics with LISA</title>
+      <link>https://tomkimpson.github.io/publications/p3/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://tomkimpson.github.io/blog_posts/13-05-2021-first-post/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/blog_posts/13-05-2021-first-post/</guid>
+      <description>This is a test post
+ P.S. something else&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pulsar timing in extreme mass ratio binaries: a general relativistic approach</title>
+      <link>https://tomkimpson.github.io/publications/p2/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial dispersion of light rays propagating through a plasma in Kerr space-time</title>
+      <link>https://tomkimpson.github.io/publications/p1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical black hole triples in young star clusters: impact of Kozai-Lidov resonance on mergers</title>
+      <link>https://tomkimpson.github.io/publications/p0/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/publications/p0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ray Tracing in Kerr spacetime</title>
+      <link>https://tomkimpson.github.io/code/ray_tracing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/ray_tracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Curvature Orbital Dynamics</title>
+      <link>https://tomkimpson.github.io/code/orbital_dynamics/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/orbital_dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iliad - General Relativistic Pulsar Timing</title>
+      <link>https://tomkimpson.github.io/code/iliad/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/iliad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Curvature Orbital Dynamics</title>
+      <link>https://tomkimpson.github.io/code/quadrupole/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/quadrupole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Burst Waveforms</title>
+      <link>https://tomkimpson.github.io/code/gwburst/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/gwburst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

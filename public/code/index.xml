@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Tom Kimpson</title>
+    <link>https://tomkimpson.github.io/code/</link>
+    <description>Recent content in Code on Tom Kimpson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tomkimpson.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ray Tracing in Kerr spacetime</title>
+      <link>https://tomkimpson.github.io/code/ray_tracing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/ray_tracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Curvature Orbital Dynamics</title>
+      <link>https://tomkimpson.github.io/code/orbital_dynamics/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/orbital_dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iliad - General Relativistic Pulsar Timing</title>
+      <link>https://tomkimpson.github.io/code/iliad/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/iliad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Curvature Orbital Dynamics</title>
+      <link>https://tomkimpson.github.io/code/quadrupole/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/quadrupole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Burst Waveforms</title>
+      <link>https://tomkimpson.github.io/code/gwburst/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://tomkimpson.github.io/code/gwburst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
