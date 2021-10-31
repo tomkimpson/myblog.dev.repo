@@ -17,22 +17,27 @@ echo ""
 echo "Committing changes to $(pwd)"
 hugo -D
 
+#Update remote
+echo ""
+echo ""
+echo "Committing changes to $(pwd)"
+git add -A .
+git commit -m "$msg"
+git push origin master
+
+# Copy everything to the host repo
+rm -rf ../tomkimpson.github.io/* #delete all old stuff
+cp -rf public/* ../tomkimpson.github.io/ #copy everything
+
+#Go to the host repo, commit and push
+
 # Go To Public folder
-cd public
-
-# Add 'public' (Github Pages repo) changes to git and commit/push.
-echo ""
-echo ""
-echo "Committing changes to $(pwd)"
-git add .
-git commit -m "$msg"
-git push origin master
-
+cd ../tomkimpson.github.io
 # Add this repos changes to git and commit/push. First 'cd' out of public
-cd ..
 echo ""
 echo ""
 echo "Committing changes to $(pwd)"
-git add .
+git add -A .
 git commit -m "$msg"
 git push origin master
+
