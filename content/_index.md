@@ -7,7 +7,7 @@ draft: False
 
 ---
 
-I am currently a postdoc in Computational physics at the [University of Oxford](https://www.physics.ox.ac.uk/research/group/predictability-weather-and-climate) where I research reduced precision float arithmetic, stochastic methods and machine learning techniques applied to [climate simulations](https://www.pnas.org/content/116/49/24390).
+I am currently a postdoc in Computational PHYSICS at the [University of Oxford](https://www.physics.ox.ac.uk/research/group/predictability-weather-and-climate) where I research reduced precision float arithmetic, stochastic methods and machine learning techniques applied to [climate simulations](https://www.pnas.org/content/116/49/24390).
 
 I got my PhD in theoretical astrophysics in 2021 from [University College London](https://www.ucl.ac.uk), within the in the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/). During this period I also spent some time at the [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca) as Visiting Graduate Fellow. 
 
